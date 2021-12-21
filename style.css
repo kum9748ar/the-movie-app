@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@300&display=swap');
+* {
+  margin: 0;
+  padding: auto;
+  font-family: 'Poppins', sans-serif;
+  background: whitesmoke;
+  background-image: url(https://source.unsplash.com/1600x900/?landscape);
+}
